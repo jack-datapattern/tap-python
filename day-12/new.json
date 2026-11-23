@@ -1,0 +1,6 @@
+{
+  "order_id": "order_id",
+  "customer_id": "customer_id",
+  "order_status": "status",
+  "order_purchase_timestamp": "purchase_time"
+}
