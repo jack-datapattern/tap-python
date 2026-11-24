@@ -1,0 +1,32 @@
+
+paths:
+  input_folder: "data"
+  output_folder: "output"
+  log_folder: "logs"
+
+validation:
+  rejection_threshold: 20
+
+mappings:
+  numeric_fields:
+    - price
+    - freight_value
+    - payment_value
+    - payment_installments
+
+  date_fields:
+    - order_purchase_timestamp
+    - order_approved_at
+    - order_delivered_carrier_date
+    - order_delivered_customer_date
+    - order_estimated_delivery_date
+
+  allowed_order_status:
+    - delivered
+    - shipped
+    - canceled
+    - invoiced
+    - processing
+    - approved
+    - unavailable
+    - created

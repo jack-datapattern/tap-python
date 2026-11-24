@@ -1,0 +1,11 @@
+2026-11-24 14:33:21,942 - INFO - Pipeline started
+2026-11-24 14:33:21,944 - WARNING - Some records contain missing values
+2026-11-24 14:33:21,945 - ERROR - Unable to process one file
+2026-11-24 14:33:21,946 - INFO - Pipeline completed
+2026-11-24 14:52:32,521 - INFO - Pipeline execution started
+2026-11-24 15:02:18,262 - INFO - Processing file: olist_orders_dataset.csv
+2026-11-24 15:02:18,266 - INFO - Manifest updated successfully
+2026-11-24 15:03:52,370 - INFO - ========== PIPELINE STARTED ==========
+2026-11-24 15:04:51,347 - INFO - ========== PIPELINE STARTED ==========
+2026-11-24 15:04:51,350 - INFO - Found 0 CSV files
+2026-11-24 15:04:51,351 - INFO - ========== PIPELINE COMPLETED ==========
