@@ -1,26 +1,24 @@
-
 column_mapping:
-
   olist_orders_dataset.csv:
     order_purchase_timestamp: purchase_date
     order_status: status
-
   olist_customers_dataset.csv:
     customer_unique_id: customer_id
     customer_zip_code_prefix: zip_code
-
   olist_order_items_dataset.csv:
     order_item_id: item_id
     price: item_price
     freight_value: shipping_cost
-
   olist_order_payments_dataset.csv:
     payment_type: payment_method
     payment_value: amount
-
   olist_products_dataset.csv:
     product_category_name: category
     product_weight_g: weight_grams
-
   olist_sellers_dataset.csv:
     seller_zip_code_prefix: zip_code
+  reviewer_orders.csv:
+    order_id: order_id
+    customer_id: customer_id
+    order_status: status
+    delivery_status: delivery_status

@@ -2,3 +2,5 @@
 2026-11-25 10:03:03,281 - WARNING - Some records contain missing values
 2026-11-25 10:03:03,281 - ERROR - Failed to process a CSV file
 2026-11-25 10:03:03,281 - INFO - Olist pipeline completed
+2026-11-25 10:05:44,849 - INFO - Processing file: olist_orders_dataset.csv
+2026-11-25 10:05:44,850 - INFO - Manifest saved successfully
